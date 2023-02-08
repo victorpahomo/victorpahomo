@@ -41,9 +41,9 @@ Coming soon
 ## Stats
 
 <section>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=radical" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=dark" />  
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=victorpahomo&theme=blue-green" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=victorpahomo&theme=dark" />  
 </section>
 
 
