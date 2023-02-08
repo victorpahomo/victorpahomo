@@ -34,12 +34,8 @@ Coming soon
 
 <section>
   <img src="https://github-readme-stats.vercel.app/api?username=victorpahomo&theme=blue-green" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=blue-green" />
 </section>
-
-<section>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=blue-green" />
-</section>
-
 
 
 ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
