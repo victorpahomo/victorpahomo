@@ -33,7 +33,7 @@ Coming soon
 - 😄 Pronouns: ...
 
 <section>
-  <img source="https://github-readme-stats.vercel.app/api?username={victorpahomo}&theme=blue-green">  </>
+  <img src="https://github-readme-stats.vercel.app/api?username={victorpahomo}&theme=blue-green" />
 </section>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=blue-green
