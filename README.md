@@ -32,7 +32,10 @@ Coming soon
 ## Prueba
 - 😄 Pronouns: ...
 
-https://github-readme-stats.vercel.app/api?username={victorpahomo}&theme=blue-green
+<section>
+  <img source=""> https://github-readme-stats.vercel.app/api?username={victorpahomo}&theme=blue-green </>
+</section>
+
 https://github-readme-stats.vercel.app/api/top-langs/?username={victorpahomo}&theme=blue-green
 
 
