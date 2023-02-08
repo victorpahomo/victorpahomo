@@ -26,7 +26,10 @@ I am a front-end developer living in Colombia, I have mainly worked on projects 
 Coming soon 
 
 ## 🌐 Find me around the web
-
+<section>
+  <a href="https://www.linkedin.com/in/victorpahomo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/moralesvictorr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</section>
 - [LinkedIn](https://www.linkedin.com/in/victorpahomo/)
 
 ## Prueba
