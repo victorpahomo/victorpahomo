@@ -27,7 +27,7 @@ Coming soon
 
 ## 🌐 Find me around the web
 
-- [linkedIn](https://www.linkedin.com/in/victorpahomo/)
+- [LinkedIn](https://www.linkedin.com/in/victorpahomo/)
 
 ## Prueba
 - 😄 Pronouns: ...
