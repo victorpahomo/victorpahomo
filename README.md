@@ -21,5 +21,19 @@ I am a front-end developer living in Colombia, I have mainly worked on projects 
 ![](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-##Prueba
+## ⚒️   My projects:
+
+Coming soon 
+
+## 🌐 Find me around the web
+
+- [linkedIn](https://www.linkedin.com/in/victorpahomo/)
+
+## Prueba
 - 😄 Pronouns: ...
+
+https://github-readme-stats.vercel.app/api?username={victorpahomo}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={victorpahomo}&theme=blue-green
+
+
+![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
