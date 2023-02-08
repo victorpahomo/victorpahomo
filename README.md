@@ -35,9 +35,6 @@ Coming soon
   <a href="https://twitter.com/moralesvictorr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </section>
 
-## Prueba
-- 😄 Pronouns: ...
-
 ## Stats
 
 <section>
