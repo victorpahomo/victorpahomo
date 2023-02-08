@@ -32,9 +32,8 @@ Coming soon
 ## Prueba
 - 😄 Pronouns: ...
 
-<section>
+<section style="{display: "flex";justify-content: "space-between";}">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=blue-green" />
-  </br>
   <img src="https://github-readme-stats.vercel.app/api?username=victorpahomo&theme=blue-green" />
    
 </section>
