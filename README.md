@@ -34,7 +34,6 @@ Coming soon
   </br>
   <a href="https://twitter.com/moralesvictorr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </section>
-- [LinkedIn](https://www.linkedin.com/in/victorpahomo/)
 
 ## Prueba
 - 😄 Pronouns: ...
@@ -43,7 +42,7 @@ Coming soon
 
 <section>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=blue-green" />  
-  </br>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=victorpahomo&theme=blue-green" />  
 </section>
 
