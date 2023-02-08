@@ -32,6 +32,8 @@ Coming soon
 ## Prueba
 - 😄 Pronouns: ...
 
+## Stats
+
 <section>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpahomo&theme=blue-green" />  
   </br>
