@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Víctor Manuel Morales Hoyos
 
-I am a front-end developer living in Colombia, I have mainly worked on projects with HTML,CSS, JAVASCRIPT and React. I also consider myself passionate about technology.
+I am a front-end developer living in Colombia, I have mainly worked on projects with HTML,CSS, JAVASCRIPT, React and Next.js. I also consider myself passionate about technology.
 
 ## 💻 Some technologies I use:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
